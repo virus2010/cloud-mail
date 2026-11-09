@@ -52,7 +52,7 @@
       <a href="https://github.com/pixtalelab/pixtale">Pixtale</a>
     </td>
     <td valign="middle">
-      一个自托管云存储相册应用
+      一个自托管云存储相册应用。
     </td>
   </tr>
 </table>
